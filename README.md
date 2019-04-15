@@ -1,4 +1,4 @@
-# Feed-Z: An automated irrigation system
+# Feed-Z: An automated feeding system
 
 System for auto-feed your fish made with arduino
 
